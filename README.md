@@ -30,6 +30,10 @@
 <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript" />
 <img src="https://img.shields.io/badge/-RUBY-black?style=flat-square&logo=ruby" />
 <img src="https://img.shields.io/badge/-SCALA-black?style=flat-square&logo=scala" />
+<img src="https://img.shields.io/badge/-LARAVEL-black?style=flat-square&logo=LARAVEL" />
+<img src="https://img.shields.io/badge/-SHELL-black?style=flat-square&logo=SHELL" />
+<img src="https://img.shields.io/badge/-KOTLIN-black?style=flat-square&logo=kotlin"/>
+<img src="https://img.shields.io/badge/-RUST-black?style=flat-square&logo=RUST"/>
 
 </p>
 
